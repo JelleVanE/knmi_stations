@@ -1,4 +1,4 @@
-example.ipynb linguish-vendored
+*.ipynb linguist-vendored
 .gitattributes text
 .gitignore text
 README.md text
