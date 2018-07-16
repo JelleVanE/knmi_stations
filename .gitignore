@@ -1,0 +1,4 @@
+*.swp
+__*
+shp/
+.ipynb_checkpoints/
